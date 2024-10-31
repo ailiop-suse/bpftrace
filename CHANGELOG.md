@@ -105,6 +105,8 @@ and this project adheres to
   - [#3536](https://github.com/bpftrace/bpftrace/pull/3536)
 - Fix crash by adding checks for bad var/map assignments
   - [#3542](https://github.com/bpftrace/bpftrace/pull/3542)
+- Fix bashreadline tool probe for dynamically linked readline
+  - [#3564](https://github.com/bpftrace/bpftrace/pull/3564)
 #### Security
 #### Docs
 - Remove mention of unsupported character literals
